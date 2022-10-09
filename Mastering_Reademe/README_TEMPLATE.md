@@ -1,5 +1,5 @@
 <h1 align="center">Project Title</h1>
-<p align="center">Brief Description</p>
+<p align="center">Serves: 1</p>
 
 ---
 
