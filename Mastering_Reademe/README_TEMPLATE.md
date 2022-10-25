@@ -2,7 +2,7 @@
 <p align="center">
 <img src="https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png" alt="He's a smart fella, he felt smart (say that 5 times fast!)"
         width="250"
-        height="250" />
+        height="200" />
 </p>
 
 ---
