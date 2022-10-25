@@ -1,8 +1,8 @@
 <h1 align="center">README Tips and Tricks!</h1>
 <p align="center">
-![Hes a smart fella!](<img src="https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png" alt="He's a smart fella, he felt smart (say that 5 times fast!)"
+<img src="https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png" alt="He's a smart fella, he felt smart (say that 5 times fast!)"
         width="250"
-        height="175" />)
+        height="175" />
 </p>
 
 ---
