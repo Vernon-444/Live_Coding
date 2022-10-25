@@ -1,12 +1,13 @@
-<h1 align="center">Project Title</h1>
-<p align="center">Serves: 1</p>
+<h1 align="center">README Tips and Tricks!</h1>
+<p align="center">
+<img src="https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png" alt="Smart Homer">
+</p>
 
 ---
-
-## Header 1 :bowtie:
+## Introduction! :bowtie:
 
 Tell us what your code does!
-Keep it simple! (You will go into detail later)
+Give us some higher level detail! (You will go into detail later)
 
 
 ### How To Use It! :computer:
@@ -66,5 +67,9 @@ cases that the code doesnt cover yet)
 
 
 https://github.com/markdown-templates/markdown-emojis
+
+https://markdownlivepreview.com/
+
 https://github.com/Vernon-444/holbertonschool-printf/edit/main/README.md
+
 https://raw.githubusercontent.com/bdbaraban/printf/749d3d394c7a12477542ccf73ccf7aa3c2db1a0e/README.md
