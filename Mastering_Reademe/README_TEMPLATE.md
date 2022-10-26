@@ -87,9 +87,3 @@ Github page for [List of Emojis](https://github.com/markdown-templates/markdown-
 Your Name, [Your Github Username](github.com)
 
 Brayden Vernon [Vernon-444](github.com/Vernon-444)
-
-<p align="center">
-<img src="https://github.com/Vernon-444/Live_Coding/blob/main/Mastering_Readme/celebrating_homer.png" alt="Happy Lookin' Homer Simpson"
-        width="250"
-        height="175" />
-</p>
