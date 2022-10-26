@@ -1,10 +1,10 @@
 <h1 align="center">README Tips and Tricks!</h1>
 <p align="center">
-<img src="https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png" alt="He's a smart fella, he felt smart (say that 5 times fast!)"
+<img src="https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png" alt="Smart Lookin' Homer Simpson"
         width="250"
         height="175" />
 </p>
-
+![Smart Homer Simpson](https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png =250x175)
 ---
 ## Introduction! :bowtie:
 
@@ -45,10 +45,11 @@ $
 
 ## Description :speech_balloon:
 Give more details about your code such as:
-* Output
-* Input (does it only take certain data types?)
-* Formatting
-* A prototype if someone was to use your code
+1. Output
+1. Input (does it only take certain data types?)
+1. Formatting
+1. An example of using your code, and the output
+    1. Use code blocks!
 
 ### Return Value(s)
 * Tell us what you expect the code to return (assuming it does)!
@@ -56,22 +57,27 @@ Give more details about your code such as:
 cases that the code doesnt cover yet)
 
 ### Formatting
-* Will need for printf!
-* Tell us what kind of formatting the code expects
-* Tell us what happens when not done right!
-* Should we expect any flag characters?
+* Tell us what kind of formatting the code expects (if expected)
+* Tell us what happens when not used properly!
+    * Or if there are any bugs (if known)
 
-### Flag Characters :crossed_flags:
-* Tell us what the flags are and what they do!
-* Give a few examples!
+| Known Error | Cause      |
+|:-------------:|:--------:|
+|Seg Fault    |Didn't account for more than 3 arguments|
+|    Frowny Face    | You didn't say please when running the code (you're rude)|
+
+---
+
+# :sparkles: Make it yours! :sparkles:
+* Keep it creative, but also professional
+* Have fun with it!
+* Experiment with other features
+    * Flow charts (via Mermaid extention)
 
 
+## Helpful Resources :book:
 
+Github page for [List of Emojis](https://github.com/markdown-templates/markdown-emojis)
 
-https://github.com/markdown-templates/markdown-emojis
+[This Website!](www.markdownlivepreview.com)
 
-https://markdownlivepreview.com/
-
-https://github.com/Vernon-444/holbertonschool-printf/edit/main/README.md
-
-https://raw.githubusercontent.com/bdbaraban/printf/749d3d394c7a12477542ccf73ccf7aa3c2db1a0e/README.md
