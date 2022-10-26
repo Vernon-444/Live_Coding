@@ -91,5 +91,5 @@ Brayden Vernon [Vernon-444](github.com/Vernon-444)
 <p align="center">
 <img src="https://github.com/Vernon-444/Live_Coding/blob/main/Mastering_Reademe/celebrating_homer.png" alt="Smart Lookin' Homer Simpson"
         width="250"
-        height="175" />
+        height="250" />
 </p>
