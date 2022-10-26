@@ -4,7 +4,9 @@
         width="250"
         height="175" />
 </p>
-![Smart Homer Simpson](https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png =250x175)
+
+![Smart Homer Simpson](https://github.com/Vernon-444/Live_Coding/blob/main/smart_homer.png=250x175)
+
 ---
 ## Introduction! :bowtie:
 
