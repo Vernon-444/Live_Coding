@@ -5,8 +5,6 @@
         height="175" />
 </p>
 
-![Smart Homer Simpson](../../smart_homer.png)
-
 ---
 ## Introduction! :bowtie:
 
