@@ -1,6 +1,6 @@
-<h1 align="center">README Tips and Tricks!</h1>
+<h1 align="center">README Tips & Tricks!</h1>
 <p align="center">
-<img src="https://github.com/Vernon-444/Live_Coding/blob/main/Mastering_Reademe/smart_homer.png" alt="Smart Lookin' Homer Simpson"
+<img src="https://github.com/Vernon-444/Live_Coding/blob/main/Mastering_Readme/smart_homer.png?raw=true" alt="Smart Lookin' Homer Simpson"
         width="250"
         height="175" />
 </p>
@@ -89,7 +89,7 @@ Your Name, [Your Github Username](github.com)
 Brayden Vernon [Vernon-444](github.com/Vernon-444)
 
 <p align="center">
-<img src="https://github.com/Vernon-444/Live_Coding/blob/main/Mastering_Reademe/celebrating_homer.png" alt="Smart Lookin' Homer Simpson"
+<img src="https://github.com/Vernon-444/Live_Coding/blob/main/Mastering_Readme/celebrating_homer.png?raw=true" alt="Celebrating Homer Simpson"
         width="250"
         height="250" />
 </p>
